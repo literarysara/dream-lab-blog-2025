@@ -4,12 +4,12 @@
 :root {
 
 
-	--background-color: #000;
+	--background-color: #00000000;
 
-	--text-color: #fff;
-	--text-color-link: rgb(255, 0, 187);
-	--text-color-link-active: #0ff;
-	--text-color-link-visited: #0b0;
+	--text-color: #344b48;
+	--text-color-link: #68d6c8;
+	--text-color-link-active: #f2b0e1;
+	--text-color-link-visited: #b97baa;
 
 	--syntax-tab-size: 2;
 }
@@ -84,15 +84,15 @@ iframe {
 h1,
 h2,
 h3 {
-  color: #ffffff;
-  font-family: "Silkscreen", sans-serif;
+  color: #344b48;
+  font-family: "Transitional", sans-serif;
   font-weight: 400;
 }
 
 h4,
 h5 {
-  color: #ffffff;
-  font-family: "Silkscreen", sans-serif;
+  color: #344b48;
+  font-family: "Transitional", sans-serif;
   font-weight: 400;
 }
 
@@ -103,7 +103,7 @@ p {
 	line-height: 1.5;
 	font-family: "Source Sans 3", sans-serif;
   	font-weight: 400;
-  	color: #00ff22;
+  	color: #344b48;
   	font-size: 1.2em;
   	
 }
@@ -113,8 +113,8 @@ li {
 }
 
 a{
-	font-family: "Silkscreen", sans-serif;
-  	color: #00ff22;
+	font-family: "Transitional", sans-serif;
+  	color: #344b48;
   	text-decoration: none;
 	font-variant: small-caps;
 	font-size: 1.2em;
@@ -378,7 +378,7 @@ header {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0);
 }
 
 /* Create two unequal columns that floats next to each other */
@@ -397,7 +397,7 @@ header {
 
 /* Add a card effect for articles */
 .card {
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0);
   padding: 20px;
   margin-top: 20px;
 }

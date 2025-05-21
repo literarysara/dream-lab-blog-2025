@@ -3,9 +3,8 @@ layout: layouts/base.njk
 ---
 <div class="about-section">
   <h1>About Me</h1>
-  <img src="biophoto.jpg" alt="photo description of me" style="width:300px">
-  <p>Some text about who I am and what I do.</p>
-  <p>Resize the browser window to see that this page is responsive by the way.</p>
+  <img src="profilepic.jpg" alt="a photo of me" style="width:300px">
+  <p>Reader, writer, and environmental steward.</p>
 </div>
 
 <h1 style="text-align:center">Research Interests</h1>
@@ -13,9 +12,8 @@ layout: layouts/base.njk
   <div class="column">
     <div class="card">
       <div class="container">
-        <h2>Book History</h2>
-        <p class="title">subtext</p>
-        <p>Some text that describes my interests in this field.</p>
+        <h2>Streams and rivers</h2>
+        <p>As a volunteer master watershed steward, I am interested in how our lives on land affect the water near us--and vice versa.</p>
       </div>
     </div>
   </div>
@@ -23,9 +21,8 @@ layout: layouts/base.njk
   <div class="column">
     <div class="card">
       <div class="container">
-        <h2>Digital Humanities</h2>
-        <p class="title">subtext</p>
-        <p>Some text that describes my interest in this field.</p>
+        <h2>Urban ecology</h2>
+        <p>Whether gardening, foraging, or maintaining green stormwater infrastructure, I am interested in the plants that grow in our urban habitat.</p>
       </div>
     </div>
   </div>
@@ -33,9 +30,8 @@ layout: layouts/base.njk
   <div class="column">
     <div class="card">
       <div class="container">
-        <h2>Visual Design</h2>
-        <p class="title">subtext</p>
-        <p>Some text that describes my interest in this field.</p>
+        <h2>Communication</h2>
+        <p>I have been a professional writer for nearly 13 years, and my PhD is in literary studies. Only recently have I found my own writerly voice. </p>
       </div>
     </div>
   </div>
