@@ -12,7 +12,4 @@ From there, we took a similar approach to the contents of the Collection Builder
 
 At lunch, we had a short workshop on three free tools we could incorporate into our work. <a href="https://voyant-tools.org/">Voyant</a> is a text analysis tool; I fed it a URL for the full text of Moby Dick, and it gave me several visualizations (including a word cloud and a line graph) to show that the word "whale" appears more often than any other, and it's not even close. <a href="https://timeline.knightlab.com/">Timeline.js</a> can be fed a template spreadsheet filled out with text and media to generate a timeline; to my surprise, I remembered using this tool to create a timeline about food and feminism. I was also surprised to learn about <a href="https://storymap.knightlab.com/">Storymap.js</a>, a simpler free version of the Storymaps tool I've used from ArcGIS. Seems to work best with specific points on a map, illustrated with images or video. 
 
-<a href="/blog/firstpost.md">First post</a>
-<a href="blog/thirdpost.md">Third post</a>
-
 
